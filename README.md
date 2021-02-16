@@ -1,5 +1,4 @@
 # Inshorts-Scraping-and-Analyzing
 
 Led a group of three to scrape the news articles from the inshorts to perform topic modelling and sentiment analysis. 
-Created a topic model to understand the scraped dataset and gain insights by converting large dataset into few words.
-Conducted sentiment analysis to detect the overall sentiment behind the news articles.
+Created a topic model to sub categorize each news article into its related domain then ingest sentiment analysis on the abstract of the article in order to know the tone of the news
